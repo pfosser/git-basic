@@ -3,4 +3,6 @@ Not a footprint to be seen
 
 New line
 First first commit in feature
-Secondo commit in feature 
+Secondo commit in feature
+Third commit in feature
+4th commit in feature 
